@@ -8,5 +8,4 @@
 
 📫 How to reach me: Feel free to email me at aleksy.kucy@uni.lodz.pl or connect with me on LinkedIn.
 
-😄 Pronouns: He/Him
 ⚡ Fun fact: In addition to my professional pursuits, I’m an avid chess player and fisherman, and I’m also working toward earning a pilot's license!

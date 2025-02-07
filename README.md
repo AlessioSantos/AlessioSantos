@@ -1,11 +1,5 @@
-👋 Hi, I’m Aleksy Kucy
+Data Scientist | Expert in data analysis and visualisation | Multilingual Translator | I solve complex problems by combining technology and culture, providing innovative solutions in education and business.
 
-👀 I’m passionate about the intersection of linguistics, AI, and financial markets. My focus areas include Artificial Intelligence in Translation, Audiovisual Translation (AVT), data analysis, and market analysis with a specialization in cryptocurrencies and forex trading.
+As an experienced scientist and linguist, I am currently focusing on enhancing my analytical skills in the field of Data Science. With over two decades of experience in academia and project management, I am now keen to apply my knowledge of data analysis and Python programming to projects that require a sophisticated understanding of data. I am seeking opportunities where I can blend my linguistic abilities with technical skills to provide innovative solutions in the rapidly evolving tech industry.
 
-🌱 I have extensive experience in linguistics and translation, combined with skills in programming and Data Science. I’m proficient in Python (including libraries like Pandas, Matplotlib, and Seaborn), exploratory data analysis (EDA), machine learning techniques, and interactive app development using Streamlit. Currently, I’m enhancing my knowledge of AI and its practical applications in linguistics and market strategies.
-
-💞️ I’m open to collaboration on projects involving Data Science, AI in translation, intercultural communication, data visualization, and market analysis strategies.
-
-📫 How to reach me: Feel free to email me at aleksy.kucy@uni.lodz.pl or connect with me on LinkedIn https://www.linkedin.com/in/aleksy-kucy-b40251189/.
-
-⚡ Fun fact: In addition to my professional pursuits, I’m an avid chess player and fisherman, and I’m also working toward earning a pilot's license!
+ATS Keywords: Python, SQL, Data Science, Machine Learning, Artificial Intelligence, Data Analysis, Exploratory Data Analysis, Deep Learning, Neural Networks, Data Visualization, Cloud Computing, Natural Language Processing, Predictive Analytics, Statistical Modeling, Data Engineering, Big Data Tools, Audiovisual Localization, Subtitling And Captioning, Multilingual Communication, Terminology Management, Simultaneous And Consecutive Interpretation, Assessments Computational Linguistics, Cross-Cultural Communication, Language Teaching, Lexicography, Discourse Analysis, Agile Methodologies, Scrum Framework, Stakeholder Management, Risk Assessment, Resource Allocation, Change Management, Strategic Planning, Process Optimization, Communication Strategy, Leadership And Team Management, Software Development, FullStack Development, API Integration, Academic Program Development, Cross-Border Collaboration, Multidisciplinary Research, Grant Writing And Management, Team Collaboration Tools.
